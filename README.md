@@ -1,6 +1,6 @@
 # Daniel Hernandez
 
-Computer Scientist from Colombia. I build developer tools, backend services, and applied ML projects.
+Computer Scientist. I build developer tools, backend services, and applied ML projects.
 
 - Currently: building [seshions](https://github.com/danhergir/seshions), a TUI to manage coding agents in parallel
 - Website: [danhergir.github.io](https://danhergir.github.io/)
