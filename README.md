@@ -6,40 +6,40 @@ Computer Scientist from Colombia. I build developer tools, backend services, and
 - Website: [danhergir.github.io](https://danhergir.github.io/)
 - X/Twitter: [@danhergir](https://x.com/danhergir)
 
-## All Projects (By Creation Date, Newest First)
+## All Projects (Newest First)
 
-- 2026-02-21 - [`danhergir`](https://github.com/danhergir/danhergir)
-- 2026-02-20 - [`multi-agent-playground`](https://github.com/danhergir/multi-agent-playground)
-- 2026-02-18 - [`seshions`](https://github.com/danhergir/seshions)
-- 2026-02-14 - [`homebrew-tap`](https://github.com/danhergir/homebrew-tap)
-- 2026-02-03 - [`ml.school`](https://github.com/danhergir/ml.school)
-- 2026-02-01 - [`llm-general-skills`](https://github.com/danhergir/llm-general-skills)
-- 2025-05-05 - [`trendential`](https://github.com/danhergir/trendential)
-- 2024-12-19 - [`intro-yolo`](https://github.com/danhergir/intro-yolo)
-- 2024-11-14 - [`neuro`](https://github.com/danhergir/neuro)
-- 2024-10-03 - [`danhergir.github.io`](https://github.com/danhergir/danhergir.github.io)
-- 2024-09-18 - [`computer-vision`](https://github.com/danhergir/computer-vision)
-- 2024-09-14 - [`olymp-games-big-data`](https://github.com/danhergir/olymp-games-big-data)
-- 2024-09-12 - [`docker-images`](https://github.com/danhergir/docker-images)
-- 2024-08-16 - [`rentacar`](https://github.com/danhergir/rentacar)
-- 2024-06-24 - [`brebe`](https://github.com/danhergir/brebe)
-- 2024-06-03 - [`pytorch_fundamentals`](https://github.com/danhergir/pytorch_fundamentals)
-- 2024-03-12 - [`todo-list`](https://github.com/danhergir/todo-list)
-- 2024-02-25 - [`clustering`](https://github.com/danhergir/clustering)
-- 2024-02-15 - [`decision-trees`](https://github.com/danhergir/decision-trees)
-- 2024-02-10 - [`Logistic_regression`](https://github.com/danhergir/Logistic_regression)
-- 2024-01-25 - [`async-js-api`](https://github.com/danhergir/async-js-api)
-- 2024-01-11 - [`scikit_learn_projects`](https://github.com/danhergir/scikit_learn_projects)
-- 2024-01-10 - [`medical_insurance_charges`](https://github.com/danhergir/medical_insurance_charges)
-- 2021-06-13 - [`cride`](https://github.com/danhergir/cride)
-- 2021-06-12 - [`Multitask-server`](https://github.com/danhergir/Multitask-server)
-- 2021-05-28 - [`cryptoStats`](https://github.com/danhergir/cryptoStats)
-- 2021-05-25 - [`marsproject`](https://github.com/danhergir/marsproject)
-- 2021-05-23 - [`clojure_project`](https://github.com/danhergir/clojure_project)
-- 2021-05-19 - [`Crypto-Trader`](https://github.com/danhergir/Crypto-Trader)
-- 2021-05-05 - [`2DGameUnity-Creepers`](https://github.com/danhergir/2DGameUnity-Creepers)
-- 2019-01-07 - [`bitlaia`](https://github.com/danhergir/bitlaia)
-- 2018-05-02 - [`startup`](https://github.com/danhergir/startup)
+- 👤 [`danhergir`](https://github.com/danhergir/danhergir) - Profile README and public portfolio entry point.
+- 🤖 [`multi-agent-playground`](https://github.com/danhergir/multi-agent-playground) - Playground for multi-agent coding workflow experiments.
+- 🛠️ [`seshions`](https://github.com/danhergir/seshions) - TUI to manage coding agents in parallel.
+- 🍺 [`homebrew-tap`](https://github.com/danhergir/homebrew-tap) - Homebrew tap formulas for distributing CLI tooling.
+- 🎓 [`ml.school`](https://github.com/danhergir/ml.school) - ML learning workspace with notebooks and experiments.
+- 🧠 [`llm-general-skills`](https://github.com/danhergir/llm-general-skills) - Reusable skills for LLM agent workflows.
+- 📈 [`trendential`](https://github.com/danhergir/trendential) - Sentiment dashboard for presidential news trends.
+- 👁️ [`intro-yolo`](https://github.com/danhergir/intro-yolo) - Introductory YOLO object detection experiments.
+- 🧬 [`neuro`](https://github.com/danhergir/neuro) - Practice projects focused on ML and neural networks.
+- 🌐 [`danhergir.github.io`](https://github.com/danhergir/danhergir.github.io) - Personal website and portfolio site.
+- 📷 [`computer-vision`](https://github.com/danhergir/computer-vision) - Computer vision notebooks and model experiments.
+- 🏅 [`olymp-games-big-data`](https://github.com/danhergir/olymp-games-big-data) - Big data analysis of Olympic Games datasets.
+- 🐳 [`docker-images`](https://github.com/danhergir/docker-images) - Docker image and containerization experiments.
+- 🚗 [`rentacar`](https://github.com/danhergir/rentacar) - TypeScript project for car-rental style workflows.
+- 💳 [`brebe`](https://github.com/danhergir/brebe) - Electronic payments product focused on Colombia.
+- 🔥 [`pytorch_fundamentals`](https://github.com/danhergir/pytorch_fundamentals) - PyTorch fundamentals and learning exercises.
+- ✅ [`todo-list`](https://github.com/danhergir/todo-list) - Todo app for daily task tracking.
+- 📊 [`clustering`](https://github.com/danhergir/clustering) - Clustering model notebooks and data experiments.
+- 🌲 [`decision-trees`](https://github.com/danhergir/decision-trees) - Decision Tree and Random Forest modeling.
+- 📉 [`Logistic_regression`](https://github.com/danhergir/Logistic_regression) - Binary and multiclass logistic regression with scikit-learn.
+- ⚡ [`async-js-api`](https://github.com/danhergir/async-js-api) - Async JavaScript API consumption with RapidAPI.
+- 🧪 [`scikit_learn_projects`](https://github.com/danhergir/scikit_learn_projects) - Collection of scikit-learn practice projects.
+- 🏥 [`medical_insurance_charges`](https://github.com/danhergir/medical_insurance_charges) - Regression model for medical insurance charge prediction.
+- 🚕 [`cride`](https://github.com/danhergir/cride) - API for city-to-city ride-sharing workflows.
+- 🦀 [`Multitask-server`](https://github.com/danhergir/Multitask-server) - Multithreaded Rust server serving HTML content.
+- 📱 [`cryptoStats`](https://github.com/danhergir/cryptoStats) - React Native app to visualize crypto prices.
+- 🛰️ [`marsproject`](https://github.com/danhergir/marsproject) - NASA Mars API app for images and data exploration.
+- ☕ [`clojure_project`](https://github.com/danhergir/clojure_project) - Clojure web app for copy/paste workflows.
+- 📲 [`Crypto-Trader`](https://github.com/danhergir/Crypto-Trader) - Android crypto tracker with Kotlin and Firebase.
+- 🎮 [`2DGameUnity-Creepers`](https://github.com/danhergir/2DGameUnity-Creepers) - 2D Unity survival game with power-ups and enemies.
+- 🪙 [`bitlaia`](https://github.com/danhergir/bitlaia) - Laravel app for cryptocurrency investment workflows.
+- 🛍️ [`startup`](https://github.com/danhergir/startup) - E-commerce website prototype.
 
 ## Technical Focus
 
